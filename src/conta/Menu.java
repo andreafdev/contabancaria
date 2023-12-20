@@ -59,7 +59,7 @@ public class Menu {
 			opcao = leia.nextInt();
 			
 			if(opcao == 9) {
-				System.out.println("\nFortius Quo Fidelius!");  
+				System.out.println("\nFortius Quo Fidelius!  Volte sempre.");  
 				leia.close();
 				System.exit(0);
 			}
